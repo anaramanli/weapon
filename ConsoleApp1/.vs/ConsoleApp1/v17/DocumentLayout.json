@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\Weapon\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\New folder\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\weapon\\consoleapp1\\consoleapp1\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\new folder\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\weapon\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\new folder\\consoleapp1\\consoleapp1\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD324FE-43E2-4FCE-8840-5F3B5C41E811}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Weapon\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Weapon\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T09:29:57.988Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Weapon\\ConsoleApp1\\ConsoleApp1\\Models\\Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Models\\Weapon.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Weapon.cs",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Weapon\\ConsoleApp1\\ConsoleApp1\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Models\\Weapon.cs",
               "RelativeToolTip": "ConsoleApp1\\Models\\Weapon.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wCQAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T09:30:40.543Z",
               "EditorCaption": ""
